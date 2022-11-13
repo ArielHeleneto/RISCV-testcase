@@ -12,4 +12,4 @@ Mozilla Thunderbird是流行的网页浏览器Mozilla Firefox的开发者的另�
 ## 参考资料
 
 - [官网](https://www.thunderbird.net/zh-CN/)
-- [LibreOffice 帮助](https://support.mozilla.org/zh-CN/products/thunderbird)
+- [Thunderbird 帮助](https://support.mozilla.org/zh-CN/products/thunderbird)
