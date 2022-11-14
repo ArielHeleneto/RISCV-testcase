@@ -6,7 +6,7 @@ Mozilla Thunderbird是流行的网页浏览器Mozilla Firefox的开发者的另�
 
 ## 环境配置
 
-- 操作系统版本： openEuler 22.03 LTS riscv64
+- 操作系统版本： openEuler 22.09 LTS riscv64
 - 软件版本： Thunderbird 97.0-1.oe2203
 
 ## 参考资料
