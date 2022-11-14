@@ -1,14 +1,16 @@
 # 软件名称
 
+xfce4及其相关组件
+
 ## 软件说明
+
+- xfce4为一自由与开放源代码的类Unix操作系统集成桌面环境，包含若干软件组件
 
 ## 环境配置
 
-## 操作系统版本
-
-## 软件版本
+- 操作系统版本： openEuler 22.03 LTS riscv64
+- 软件版本： libreOffice 7.3.5.2 30(build:2)
 
 ## 参考资料
 
-- [官网](https://help.libreoffice.org)
-- [LibreOffice 帮助](https://help.libreoffice.org/7.3/zh-CN/text/swriter/main0000.html)
+- [官网](https://docs.xfce.org/)
