@@ -1,0 +1,67 @@
+name: "Add a new software testcase library"
+description: "增加一个软件测试用例库"
+title: "[Add Testcase] "
+labels: ["Testcase / 测试用例"]
+
+body:
+  - type: markdown
+    attributes:
+      value: 欢迎为本项目提出新的 Issue！烦请填写以下表单。
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: 请选择：
+      options:
+      - label: 我已经检查了 [Issue](https://github.com/brsf11/mugen-riscv/issues)，进行了搜索，但没有发现类似问题。
+        required: true
+      - label: 我正在着手整理该测试用例库。
+        required: false
+      - label: 我希望接手该测试用例库。
+        required: false
+  - type: input
+    id: testcaseName
+    attributes:
+      label: 软件名称
+      description: 请填写软件名称。
+      placeholder: "e.g. libreOffice"
+    validations:
+      required: true
+  - type: input
+    id: testcaseVer
+    attributes:
+      label: 软件版本
+      description: 请填写软件版本号。
+      placeholder: "e.g. libreOffice 7.3.5.2 30(build:2)"
+    validations:
+      required: true
+  - type: input
+    id: testcaseOS
+    attributes:
+      label: 操作系统版本
+      description: 请填写操作系统版本号。
+      placeholder: "e.g. openEuler 22.03 LTS riscv64"
+      value: "openEuler 22.03 LTS riscv64"
+    validations:
+      required: true
+  - type: textarea
+    id: desc
+    attributes:
+      label: 软件描述
+      description: 请简要描述该软件
+      placeholder: "e.g. Libreoffice 是一款办公软件。"
+    validations:
+      required: false
+  - type: textarea
+    id: testcaseSource
+    attributes:
+      label: 已有测试用例来源
+      description: 请在此处列出所有已有的测试用例来源，包括但不限于 URL，联系人等。
+      placeholder: 运行该测试例后，……
+      value: "目前已有的测试用例："
+    validations:
+      required: false
+  - type: textarea
+    id: othors
+    attributes:
+      label: 其他有助于解决该问题的内容
+      description: 如果你了解相关的其他信息，请在此处报告
