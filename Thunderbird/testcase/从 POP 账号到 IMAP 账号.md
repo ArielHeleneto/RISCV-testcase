@@ -18,7 +18,7 @@
 2. 通过[自动账户配置](https://github.com/GICEGreenIce/RISCV-testcase/blob/master/Thunderbird/testcase/%E8%87%AA%E5%8A%A8%E8%B4%A6%E6%88%B7%E9%85%8D%E7%BD%AE.md)的帮助设置账号。
 3. 当它询问需要 POP 还是 IMAP 时，选择**IMAP（远端文件夹）**。
 
-![从 POP 账号到 IMAP 账号-1.png](./img/从 POP 账号到 IMAP 账号-1.png)
+![从 POP 账号到 IMAP 账号-1](./img/从POP账号到IMAP账号-1.png)
 
 4. 新的 IMAP 账号就建好了，它列在现有账号的最下面。
 5. 花点时间测试一下是否一切正常。检查特殊文件夹是否正确辨识（即，保存已发邮件的文件夹有特殊的图标，同样的，**回收桶**、**垃圾邮件**和**草稿**文件夹也是）。
