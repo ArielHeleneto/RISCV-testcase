@@ -12,5 +12,5 @@ GIMP是一个多平台工具，用于创建和编辑各种图像。GIMP是GNU Im
 
 ## 参考资料
 
-- [官网]https://www.gimp.org
-- [GIMP 帮助]https://www.gimp.org/docs/userfaq.html
+- [官网](https://www.gimp.org)
+- [GIMP 帮助](https://www.gimp.org/docs/userfaq.html)
