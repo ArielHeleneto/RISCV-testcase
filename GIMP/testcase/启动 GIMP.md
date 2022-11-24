@@ -6,7 +6,8 @@
 
 ## 操作步骤
 
-执行命令：gimp
+执行命令：
+    gimp
 
 ![启动GIMP-1]（./img/启动GIMP-1.png)
 
