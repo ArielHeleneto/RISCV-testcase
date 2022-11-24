@@ -8,7 +8,7 @@
 
 执行以下指令：
 
-dnf install gimp
+    dnf install gimp
 
 ## 预期效果
 
