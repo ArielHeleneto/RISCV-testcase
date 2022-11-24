@@ -2,7 +2,7 @@
 
 ## 摘要
 
-Flip An Image
+使用 GIMP 滑动图片。
 
 ## 操作步骤
 
