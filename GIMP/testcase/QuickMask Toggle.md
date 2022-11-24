@@ -10,7 +10,7 @@ QuickMask Toggle：图像左下角的小按钮可打开和关闭快速蒙版。�
 
 ## 预期效果
 
-![QuickMask Toggle](./img/QuickMask Toggle.png)
+![QuickMask Toggle](./img/QuickMaskToggle.png)
 
 ## 其他说明
 
