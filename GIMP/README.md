@@ -7,7 +7,6 @@ GIMP 是一个多平台工具，用于创建和编辑各种图像。 GIMP 是 GN
 ## 环境配置
 
 - gimp-2 riscv64 2.99.6-3.oe2203
-
 - openEuler 22.03-v1 riscv64
 
 ## 参考资料
