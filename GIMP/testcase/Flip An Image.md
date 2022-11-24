@@ -8,7 +8,7 @@
 
 Tools -> Transform Tools -> Flip – 滑动图片。
 
-![Flip An Image](./img/FlipAnImage.png)
+![Flip An Image](./img/FlipAnImage-1.png)
 
 ## 预期效果
 
