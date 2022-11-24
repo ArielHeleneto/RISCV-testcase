@@ -6,7 +6,7 @@
 
 ## 操作步骤
 
-Tools → Transform Tools → Flip – 滑动图片。
+Tools -> Transform Tools -> Flip – 滑动图片。
 
 ![Flip An Image](./img/FlipAnImage.png)
 
