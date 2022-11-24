@@ -10,7 +10,7 @@
 
 默认情况下，只有 Foreground-background 图标可见。您可以通过Edit → Preferences → Toolbox : Tools configuration添加 Brush-Pattern-Gradient 图标和 Active Image 图标。
 
-## ![GIMP工具箱](./img/GIMP工具箱.png)预期效果
+![GIMP工具箱](./img/GIMP工具箱.png)预期效果
 
 各个子功能正常。
 
