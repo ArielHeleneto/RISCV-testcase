@@ -14,7 +14,7 @@
 
 ![启动GIMP-2](./img/启动GIMP-2.png)
 
-![启动GIMP-3](./启动GIMP-3.png)
+![启动GIMP-3](./img/启动GIMP-3.png)
 
 ## 其他说明
 
