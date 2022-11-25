@@ -9,7 +9,7 @@ xfce4及其相关组件
 ## 环境配置
 
 - 操作系统版本： openEuler 22.03 LTS riscv64
-- 软件版本： libreOffice 7.3.5.2 30(build:2)
+- 软件版本： xfce 4.16
 
 ## 参考资料
 
