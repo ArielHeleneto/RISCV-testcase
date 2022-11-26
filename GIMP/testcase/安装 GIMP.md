@@ -6,9 +6,7 @@
 
 ## 操作步骤
 
-执行以下指令：
-
-`dnf install gimp`
+执行以下指令：`dnf install gimp`
 
 ## 预期效果
 
