@@ -15,5 +15,5 @@ Firefox 97.0.1-1.oe2203
 
 ## 参考资料
 
-- [官网]([Firefox 火狐浏览器 - 全新、安全、快速 | 官方最新下载](https://www.firefox.com.cn/))
-- [Firefox 帮助 ]([Firefox 帮助 (mozilla.org)](https://support.mozilla.org/zh-CN/products/firefox))
+- [官网]([Firefox 火狐浏览器-全新、安全、快速|官方最新下载](https://www.firefox.com.cn/))
+- [Firefox帮助]([Firefox帮助 (mozilla.org)](https://support.mozilla.org/zh-CN/products/firefox))
