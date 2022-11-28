@@ -1,7 +1,7 @@
 # Firefox
 ## 软件说明
 Firefox 是一个免费和开源的浏览器，全世界10%的人使用Firefox作为他们的主要浏览器。Mozilla是Firefox 浏览器的开发商，主要提供专注于开放网络的产品。Firefox是谷歌Chrome浏览器的替代品。
-## 操作系统版本
+## 环境配置
 - openEuler 22.09 LTS riscv64
 - Firefox 97.0.1-1.oe2203
 ## 参考资料
