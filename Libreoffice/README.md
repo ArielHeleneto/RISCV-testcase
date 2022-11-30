@@ -1,6 +1,4 @@
-# 软件名称
-
-LibreOffice 
+# LibreOffice
 
 ## 软件说明
 
@@ -8,11 +6,10 @@ LibreOffice（发音：/ˌliː.brəˈɒ.fɪs/）是由文档基金会开发的�
 
 ## 环境配置
 
-openEuler 22.03_LTS RISC-V
-5.10.0-7.oe2203.riscv64 (testing build 20220926)。
+- 操作系统版本： openEuler 22.03 LTS riscv64
+- 软件版本： libreOffice 7.3.5.2 30(build:2)
 
 ## 参考资料
 
-- [安装指南](./installation.md)
-- [操作手册](./userguide.md)
+- [官网](https://www.libreoffice.org/)
 - [LibreOffice 帮助](https://help.libreoffice.org/7.3/zh-CN/text/swriter/main0000.html)
