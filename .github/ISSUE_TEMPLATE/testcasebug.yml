@@ -1,0 +1,39 @@
+name: "Add a testcase bug"
+description: "提交一个测试用例错误"
+title: "[Testcase Bug] "
+labels: ["Testcase / 测试用例"]
+
+body:
+  - type: markdown
+    attributes:
+      value: 欢迎为本项目提出新的 Issue！烦请填写以下表单。
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: 请选择：
+      options:
+      - label: 我已经检查了 [Issue](https://github.com/brsf11/mugen-riscv/issues)，进行了搜索，但没有发现类似问题。
+        required: true
+      - label: 我希望接手该问题。
+        required: false
+  - type: input
+    id: testcaseName
+    attributes:
+      label: 测试用例相对路径
+      description: 请填写包含错误的测试用例的相对路径。
+      placeholder: "e.g. Libreoffice/testcase/插入图表.md"
+    validations:
+      required: true
+  - type: textarea
+    id: desc
+    attributes:
+      label: 错误描述
+      description: 请简要描述该错误
+      placeholder: "e.g. 第一行有错别字。"
+    validations:
+      required: false
+  - type: textarea
+    id: othors
+    attributes:
+      label: 其他有助于解决该问题的内容
+      description: 如果你了解相关的其他信息，请在此处报告
