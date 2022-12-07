@@ -56,7 +56,7 @@ mpirun -n 2 ./send_recv
 Process 1 received number -1 from process 0
 ```
 
-出现以上代码则说明运行成功。
+测试通过，功能正常运行。
 
 ## 其他说明
 
