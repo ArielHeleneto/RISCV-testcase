@@ -24,7 +24,7 @@ clone 完成后，进入文件夹中的 tutorials 。
 
 ```Process 1 received number -1 from process 0```
 
-出现以上结果说明测试正常。
+测试通过，功能正常运行。
 
 ## 其他说明
 
