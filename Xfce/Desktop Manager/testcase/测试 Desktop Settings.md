@@ -12,7 +12,7 @@
 
 ## 预期结果
 
-![测试 Desktop Settings-2](./img/测试 Desktop Settings-2.png)
+![测试DesktopSettings-2](./img/测试DesktopSettings-2.png)
 
 如图所示，功能正常，可以更换桌面壁纸。
 
