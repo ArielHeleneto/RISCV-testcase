@@ -12,7 +12,7 @@
 
 - 输出大致如图所示
 
-![](./img/Screenshot_20221208_221625.png)
+![](./img/%E6%89%93%E5%BC%80xfconf-query.png)
 
 ## 其他说明
 
