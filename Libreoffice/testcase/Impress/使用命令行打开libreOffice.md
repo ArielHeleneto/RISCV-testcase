@@ -8,7 +8,7 @@
 
 使用命令行打开libreOffice
 
-![](./img/Screenshot_20221010_153327.png)
+![](./img/使用命令行打开libreOffice-1.png)
 
 ## 预期结果
 

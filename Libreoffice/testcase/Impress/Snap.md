@@ -10,7 +10,7 @@
 
 Choose **View - Snap Guides** (Impress or Draw).
 
-![](./img/Screenshot_20221012_130826.png)
+![](./img/Snap-1.png)
 
 ## 预期结果
 
