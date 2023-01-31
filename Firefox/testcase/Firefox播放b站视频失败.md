@@ -13,4 +13,4 @@
 
 `bilibili` 网站长时间加载无法打开。
 
-![Firefox播放b站视频失败](../img/Firefox播放b站视频失败.png)
+![Firefox播放b站视频失败](./img/Firefox播放b站视频失败.png)
