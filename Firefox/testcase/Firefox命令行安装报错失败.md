@@ -16,7 +16,7 @@ Firefox 安装成功。
 
 Firefox安装失败。
 
-![firefox安装失败1](../img/firefox安装失败1.png)
-![firefox安装失败2](../img/firefox安装失败2.png)
-![firefox安装失败3](../img/firefox安装失败3.png)
-![firefox安装失败4](../img/firefox安装失败4.png)
+![firefox安装失败1](./img/firefox安装失败1.png)
+![firefox安装失败2](./img/firefox安装失败2.png)
+![firefox安装失败3](./img/firefox安装失败3.png)
+![firefox安装失败4](./img/firefox安装失败4.png)

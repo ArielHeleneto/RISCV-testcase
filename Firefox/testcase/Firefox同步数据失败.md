@@ -14,5 +14,5 @@
 
 同步失败，其它设备书签栏未能同步。
 
-![Firefox同步数据失败1](../img/Firefox同步数据失败1.png)
-![Firefox同步数据失败2](../img/Firefox同步数据失败2.png)
+![Firefox同步数据失败1](./img/Firefox同步数据失败1.png)
+![Firefox同步数据失败2](./img/Firefox同步数据失败2.png)

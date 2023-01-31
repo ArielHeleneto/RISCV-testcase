@@ -13,4 +13,4 @@
 
 视频播放卡顿，无声音。
 
-![Firefox播放视频失败](../img/Firefox播放视频失败.png)
+![Firefox播放视频失败](./img/Firefox播放视频失败.png)
