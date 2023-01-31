@@ -2,7 +2,7 @@
 
 ## 操作步骤
 
-点击菜单栏 File->Quit，或关闭 Thunderbird 所有窗口。
+点击菜单栏 File -> Quit，或关闭 Thunderbird 所有窗口。
 
 ## 预期结果
 

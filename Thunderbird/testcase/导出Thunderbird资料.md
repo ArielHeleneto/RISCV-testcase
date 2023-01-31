@@ -2,7 +2,7 @@
 
 ## 操作步骤
 
-点击菜单栏的 Tools->Export...。
+点击菜单栏的 Tools -> Export...。
 
 ## 预期结果
 
