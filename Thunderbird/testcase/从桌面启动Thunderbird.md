@@ -12,4 +12,4 @@ Thunderbird 启动成功。
 
 Thunderbird 启动成功。
 
-![Thunderbird从桌面启动成功](../img/thunderbird-launch-desktop.png)
+![Thunderbird从桌面启动成功](./img/thunderbird-launch-desktop.png)

@@ -2,7 +2,7 @@
 
 ## 操作步骤
 
-在 Terminal 中执行 thunderbird 启动 Thunderbird。
+在 Terminal 中执行 ```thunderbird``` 启动 Thunderbird。
 
 ## 预期结果
 
@@ -12,4 +12,4 @@ Thunderbird 启动成功。
 
 Thunderbird 启动成功。
 
-![Thunderbird从终端启动成功](../img/thunderbird-launch-terminal.png)
+![Thunderbird从终端启动成功](./img/thunderbird-launch-terminal.png)
