@@ -10,8 +10,4 @@
 
 系统不会保存cookie和数据。
 
-## 实际结果
-
-系统不会保存cookie和数据。
-
-![开启关闭退出Chromium时清除Cookie及网站数据-1](../img/开启关闭退出Chromium时清除Cookie及网站数据-1.png)
+![开启关闭退出Chromium时清除Cookie及网站数据-1](./img/开启关闭退出Chromium时清除Cookie及网站数据-1.png)
