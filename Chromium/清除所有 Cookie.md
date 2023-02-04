@@ -11,8 +11,4 @@
 
 Cookie 被清除。
 
-## 实际结果
-
-Cookie 被清除。
-
-![清除所Cookie-1](../img/清除所Cookie-1.png)
+![清除所Cookie-1](./img/清除所Cookie-1.png)
