@@ -7,10 +7,10 @@
 ## 操作步骤
 
 1. 启动 Terminal
-2. 执行 sudo dnf install mysql-server
+2. 执行``` sudo dnf install mysql-server```
 3. 输入 y 并回车
 
-![MySQL安装](./img/MySQL安装.png)
+![MySQL安装-1](./img/MySQL安装-1.png)
 
 ## 预期结果
 

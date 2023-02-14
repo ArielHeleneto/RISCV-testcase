@@ -6,9 +6,13 @@
 
 ## 操作步骤
 
-在 MySQL 中执行 ALTER TABLE users ADD COLUMN ch_name TEXT NULL;
+在 MySQL 中执行以下指令：
 
-![添加TEXT数据类型的字段](./img/添加TEXT数据类型的字段.png)
+```
+ALTER TABLE users ADD COLUMN ch_name TEXT NULL;
+```
+
+![添加TEXT数据类型的字段-1](./img/添加TEXT数据类型的字段-1.png)
 
 ## 预期结果
 
