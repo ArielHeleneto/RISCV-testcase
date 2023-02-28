@@ -9,4 +9,4 @@
 
 安装成功
 
-![安装dde.png](../img/安装dde.png)
+![安装dde.png](./img/安装dde.png)
