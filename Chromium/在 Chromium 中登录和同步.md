@@ -11,8 +11,4 @@
 
 可以正常设置。
 
-## 实际结果
-
-无法正常设置。
-
-![在Chromium中登录和同步-1](../img/在Chromium中登录和同步-1.png)
+![在Chromium中登录和同步-1](./img/在Chromium中登录和同步-1.png)
