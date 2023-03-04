@@ -13,8 +13,3 @@
 
 选择的 Cookie 被删除。
 
-## 实际结果
-
-选择的 Cookie 被删除。
-
-![删除特定Cookie-1](../img/删除特定Cookie-1.png)

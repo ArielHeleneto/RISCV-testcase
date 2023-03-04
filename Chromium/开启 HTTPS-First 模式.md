@@ -11,8 +11,4 @@
 
 模式被开启。
 
-## 实际结果
-
-模式被开启。
-
-![开启HTTPS-First模式-1](../img/开启HTTPS-First模式-1.png)
+![开启HTTPS-First模式-1](./img/开启HTTPS-First模式-1.png)

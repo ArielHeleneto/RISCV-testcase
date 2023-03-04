@@ -10,8 +10,4 @@
 
 页面被翻译成相应语言。
 
-## 实际结果
-
-页面被翻译成相应语言。
-
-![在Chromium中翻译网页-1](../img/在Chromium中翻译网页-1.png)
+![在Chromium中翻译网页-1](./img/在Chromium中翻译网页-1.png)
