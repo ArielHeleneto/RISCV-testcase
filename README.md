@@ -1,6 +1,6 @@
 # RISCV-testcase
 
-本项目是 RISC-V 测试用例库的存储库。
+本项目是 RISC-V 测试用例库的存储库。排版规则请参阅 [中文排版指南](https://github.com/aaranxu/chinese-copywriting-guidelines)。
 
 ## 编写要求
 
@@ -33,3 +33,15 @@
 图片、视频、超链接等应该有标题。
 
 排版规则请参阅 [中文排版指南](https://github.com/aaranxu/chinese-copywriting-guidelines)。
+
+## 官方自动化测试的单行条例
+
+### 目录结构
+
+将所有内容放置在 `AutoTest/软件名` 目录下。
+
+### 文件清单
+
+- `README.md`：项目说明文件应当包含项目名称，软件说明，操作系统版本，软件版本，参考资料（包含官网、官方帮助文档等）、分项说明和联系人信息（如果需要）。
+- `testguide.md`：启动测试的方法介绍、依赖。如需特殊处理也一并放入其中。
+- `report.md`：最近一次测试的运行情况和结果。
