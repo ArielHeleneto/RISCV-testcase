@@ -8,7 +8,6 @@
 
 ![任务栏sidebar-1](./img/任务栏sidebar-1.png)
 
-
 ## 其他说明
 
 无。

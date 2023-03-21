@@ -10,7 +10,6 @@
 
 ![peony-显示文件属性-2](./img/peony-显示文件属性-2.png)
 
-
 ## 预期结果
 正常显示 Properties
 
