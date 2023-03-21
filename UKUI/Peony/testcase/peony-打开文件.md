@@ -4,7 +4,7 @@
 1. 打开 peony
 2. 选择文件双击 或者 右键点击 Open with...
 
-![peony_打开文件-1](./img/peony_打开文件-1.png)
+![peony-打开文件-1](./img/peony-打开文件-1.png)
 
 
 ## 预期结果

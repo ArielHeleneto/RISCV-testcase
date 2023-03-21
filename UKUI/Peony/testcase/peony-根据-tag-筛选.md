@@ -6,7 +6,7 @@
 
 ## 预期结果
 
-![peony_根据_tag_筛选-1](./img/peony_根据_tag_筛选-1.png)
+![peony-根据-tag-筛选-1](./img/peony-根据-tag-筛选-1.png)
 
 
 ## 其他说明

@@ -4,7 +4,7 @@
 1. 随机打开应用程序
 2. 打开 system monitor
 
-![system_monitor_操作_1](./img/system_monitor_1.png)
+![system-monitor-操作-1](./img/system-monitor-1.png)
 
 3. 对之前创建的程序进行 stop process/Continue process/End process/Kill process 等操作。
 ## 预期结果

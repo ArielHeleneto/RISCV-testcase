@@ -4,11 +4,11 @@
 1. 打开 peony
 2. 选择文件右键 Properties
 
-![peony_显示文件属性-1](./img/peony_显示文件属性-1.png)
+![peony-显示文件属性-1](./img/peony-显示文件属性-1.png)
 
 3. 显示 properties
 
-![peony_显示文件属性-2](./img/peony_显示文件属性-2.png)
+![peony-显示文件属性-2](./img/peony-显示文件属性-2.png)
 
 
 ## 预期结果

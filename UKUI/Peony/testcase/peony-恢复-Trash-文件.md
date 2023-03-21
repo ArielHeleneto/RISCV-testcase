@@ -6,7 +6,7 @@
 2. 打开 Trash
 3. 右键文件选择 Restore
 
-[Trash_恢复文件-1](./img/Trash_恢复文件-1.png)
+[Trash-恢复文件-1](./img/Trash-恢复文件-1.png)
 
 ## 预期结果
 文件被恢复

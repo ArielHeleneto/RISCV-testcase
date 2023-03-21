@@ -4,11 +4,11 @@
 1. 打开 peony
 2. 右键文件选择 compress...
 
-![peony_压缩文件-1](./img/peony_压缩文件-1.png)
+![peony-压缩文件-1](./img/peony-压缩文件-1.png)
 
-![peony_压缩文件-2](./img/peony_压缩文件-2.png)
+![peony-压缩文件-2](./img/peony-压缩文件-2.png)
 
-![peony_压缩文件-3](./img/peony_压缩文件-3.png)
+![peony-压缩文件-3](./img/peony-压缩文件-3.png)
 
 
 ## 预期结果

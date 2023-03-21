@@ -3,9 +3,9 @@
 
 点击左下角启动器，点击启动器右下角按钮
 
-![启动器点击_computer-1](./img/启动器点击_computer-1.png)
+![启动器点击-computer-1](./img/启动器点击-computer-1.png)
 
-![启动器点击_computer-2](./img/启动器点击_computer-2.png)
+![启动器点击-computer-2](./img/启动器点击-computer-2.png)
 
 ## 预期结果
 
