@@ -6,9 +6,13 @@
 
 ## 操作步骤
 
-在 MySQL 中执行 ALTER TABLE users ADD COLUMN birth DATETIME NULL;
+在 MySQL 中执行以下指令：
 
-![添加DATETIME数据类型的字段](./img/添加DATETIME数据类型的字段.png)
+```
+ALTER TABLE users ADD COLUMN birth DATETIME NULL;
+```
+
+![添加DATETIME数据类型的字段-1](./img/添加DATETIME数据类型的字段-1.png)
 
 ## 预期结果
 

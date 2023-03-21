@@ -6,9 +6,13 @@
 
 ## 操作步骤
 
-在 MySQL 中执行 exit。
+在 MySQL 中执行以下指令：
 
-![登出MySQL](./img/登出MySQL.png)
+```
+exit
+```
+
+![登出MySQL-1](./img/登出MySQL-1.png)
 
 ## 预期结果
 

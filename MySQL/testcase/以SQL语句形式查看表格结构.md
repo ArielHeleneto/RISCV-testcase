@@ -6,9 +6,13 @@
 
 ## 操作步骤
 
-在 MySQL 中执行 SHOW CREATE TABLE users;
+在 MySQL 中执行以下指令：
 
-![语句形式查看表格结构](./img/语句形式查看表格结构.png)
+```
+SHOW CREATE TABLE users;
+```
+
+![语句形式查看表格结构-1](./img/语句形式查看表格结构-1.png)
 
 ## 预期结果
 

@@ -7,10 +7,10 @@
 ## 操作步骤
 
 1. 启动 Terminal
-2. 执行 sudo dnf remove mysql-server
+2. 执行 ```sudo dnf remove mysql-server```
 3. 输入 y 并回车
 
-![MySQL卸载](./img/MySQL卸载.png)
+![MySQL卸载-1](./img/MySQL卸载-1.png)
 
 ## 预期结果
 

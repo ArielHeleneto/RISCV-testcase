@@ -6,9 +6,13 @@
 
 ## 操作步骤
 
-在 MySQL 中执行 SHOW CREATE VIEW user_list;
+在 MySQL 中执行以下指令：
 
-![以SQL语句形式查看视图结构](./img/以SQL语句形式查看视图结构.png)
+```
+SHOW CREATE VIEW user_list;
+```
+
+![以SQL语句形式查看视图结构-1](./img/以SQL语句形式查看视图结构-1.png)
 
 ## 预期结果
 

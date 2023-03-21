@@ -7,10 +7,10 @@
 ## 操作步骤
 
 1. 启动 Terminal
-2. 执行 mysql -u root -p
+2. 执行 ```mysql -u root -p```
 3. 输入密码并回车（初次安装时密码为空）
 
-![登入MySQL](./img/登入MySQL.png)
+![登入MySQL-1](./img/登入MySQL-1.png)
 
 ## 预期结果
 

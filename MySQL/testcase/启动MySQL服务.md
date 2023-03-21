@@ -7,9 +7,9 @@
 ## 操作步骤
 
 1. 启动 Terminal
-2. 执行 systemctl start mysqld
+2. 执行 ```systemctl start mysqld```
 
-![启动MySQL服务](./img/启动MySQL服务.png)
+![启动MySQL服务-1](./img/启动MySQL服务-1.png)
 
 ## 预期结果
 
