@@ -7,7 +7,7 @@
 ## 预期结果
 成功筛选
 
-![file:system-monitor-搜索-1](./img/system-monitor-搜索-1.png)
+![system-monitor-搜索-1](./img/system-monitor-搜索-1.png)
 
 ## 其他说明
 无。

@@ -10,10 +10,10 @@ Linux 发行版。
 
 ## 环境配置
 
-- 操作系统版本： openEuler 22.03 LTS riscv64
+- 操作系统版本： openEuler 23.02 riscv64
 vcpu: 16
 memory: 32G
-镜像： https://mirror.iscas.ac.cn/openeuler-sig-riscv/openEuler-RISC-V/testing/20221228/QEMU/openEuler-22.03-V2-base-qemu-preview.qcow2.tar.zst 
+镜像： https://mirror.iscas.ac.cn/openeuler-sig-riscv/openEuler-RISC-V/testing/20230322/v0.1/QEMU/openEuler-23.02-V1-base-qemu-testing.qcow2.zst
 
 ## 安装方法
 

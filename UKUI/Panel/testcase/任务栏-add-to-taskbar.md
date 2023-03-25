@@ -5,8 +5,6 @@
 1. 随机打开应用程序
 2. 右键点击任务栏相应程序 点击 add to taskbar
 
-[[file:任务栏-add-to-taskbar/任务栏-add-to-taskbar-1.png]]
-
 ## 预期结果
 关闭程序后，图标依旧在任务栏上
 
