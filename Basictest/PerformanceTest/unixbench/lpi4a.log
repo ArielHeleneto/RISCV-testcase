@@ -1,0 +1,103 @@
+make all
+make[1]: Entering directory '/home/eula/byte-unixbench/UnixBench'
+make distr
+make[2]: Entering directory '/home/eula/byte-unixbench/UnixBench'
+Checking distribution of files
+./pgms  exists
+./src  exists
+./testdir  exists
+./tmp  exists
+./results  exists
+make[2]: Leaving directory '/home/eula/byte-unixbench/UnixBench'
+make programs
+make[2]: Entering directory '/home/eula/byte-unixbench/UnixBench'
+make[2]: Nothing to be done for 'programs'.
+make[2]: Leaving directory '/home/eula/byte-unixbench/UnixBench'
+make[1]: Leaving directory '/home/eula/byte-unixbench/UnixBench'
+
+   #    #  #    #  #  #    #          #####   ######  #    #   ####   #    #
+   #    #  ##   #  #   #  #           #    #  #       ##   #  #    #  #    #
+   #    #  # #  #  #    ##            #####   #####   # #  #  #       ######
+   #    #  #  # #  #    ##            #    #  #       #  # #  #       #    #
+   #    #  #   ##  #   #  #           #    #  #       #   ##  #    #  #    #
+    ####   #    #  #  #    #          #####   ######  #    #   ####   #    #
+
+   Version 5.1.3                      Based on the Byte Magazine Unix Benchmark
+
+   Multi-CPU version                  Version 5 revisions by Ian Smith,
+                                      Sunnyvale, CA, USA
+   January 13, 2011                   johantheghost at yahoo period com
+
+------------------------------------------------------------------------------
+   Use directories for:
+      * File I/O tests (named fs***) = /home/eula/byte-unixbench/UnixBench/tmp
+      * Results                      = /home/eula/byte-unixbench/UnixBench/results
+------------------------------------------------------------------------------
+
+
+4 x Dhrystone 2 using register variables  1 2 3 4 5 6 7 8 9 10
+
+4 x Double-Precision Whetstone  1 2 3 4 5 6 7 8 9 10
+
+4 x Execl Throughput  1 2 3
+
+4 x File Copy 1024 bufsize 2000 maxblocks  1 2 3
+
+4 x File Copy 256 bufsize 500 maxblocks  1 2 3
+
+4 x File Copy 4096 bufsize 8000 maxblocks  1 2 3
+
+4 x Pipe Throughput  1 2 3 4 5 6 7 8 9 10
+
+4 x Pipe-based Context Switching  1 2 3 4 5 6 7 8 9 10
+
+4 x Process Creation  1 2 3
+
+4 x System Call Overhead  1 2 3 4 5 6 7 8 9 10
+
+4 x Shell Scripts (1 concurrent)  1 2 3
+
+4 x Shell Scripts (8 concurrent)  1 2 3
+
+========================================================================
+   BYTE UNIX Benchmarks (Version 5.1.3)
+
+   System: localhost.localdomain: GNU/Linux
+   OS: GNU/Linux -- 5.10.113-1.1-rvboards -- #1 SMP PREEMPT Wed Oct 25 10:15:53 UTC 2023
+   Machine: riscv64 (riscv64)
+   Language: en_US.utf8 (charmap="UTF-8", collate="UTF-8")
+   16:30:40 up 23:45,  2 users,  load average: 0.63, 0.34, 0.24; runlevel 2023-02-16
+
+------------------------------------------------------------------------
+Benchmark Run: 四 3月 14 2024 16:30:40 - 16:58:46
+4 CPUs in system; running 4 parallel copies of tests
+
+Dhrystone 2 using register variables       46194624.1 lps   (10.0 s, 7 samples)
+Double-Precision Whetstone                     8576.7 MWIPS (10.0 s, 7 samples)
+Execl Throughput                               2172.0 lps   (29.9 s, 2 samples)
+File Copy 1024 bufsize 2000 maxblocks        379872.3 KBps  (30.0 s, 2 samples)
+File Copy 256 bufsize 500 maxblocks          106624.8 KBps  (30.0 s, 2 samples)
+File Copy 4096 bufsize 8000 maxblocks       1052282.3 KBps  (30.0 s, 2 samples)
+Pipe Throughput                              807075.8 lps   (10.0 s, 7 samples)
+Pipe-based Context Switching                 112884.8 lps   (10.0 s, 7 samples)
+Process Creation                               4406.3 lps   (30.0 s, 2 samples)
+Shell Scripts (1 concurrent)                   3213.9 lpm   (60.1 s, 2 samples)
+Shell Scripts (8 concurrent)                    454.4 lpm   (60.1 s, 2 samples)
+System Call Overhead                         957583.2 lps   (10.0 s, 7 samples)
+
+System Benchmarks Index Values               BASELINE       RESULT    INDEX
+Dhrystone 2 using register variables         116700.0   46194624.1   3958.4
+Double-Precision Whetstone                       55.0       8576.7   1559.4
+Execl Throughput                                 43.0       2172.0    505.1
+File Copy 1024 bufsize 2000 maxblocks          3960.0     379872.3    959.3
+File Copy 256 bufsize 500 maxblocks            1655.0     106624.8    644.3
+File Copy 4096 bufsize 8000 maxblocks          5800.0    1052282.3   1814.3
+Pipe Throughput                               12440.0     807075.8    648.8
+Pipe-based Context Switching                   4000.0     112884.8    282.2
+Process Creation                                126.0       4406.3    349.7
+Shell Scripts (1 concurrent)                     42.4       3213.9    758.0
+Shell Scripts (8 concurrent)                      6.0        454.4    757.4
+System Call Overhead                          15000.0     957583.2    638.4
+                                                                   ========
+System Benchmarks Index Score                                         811.9
+

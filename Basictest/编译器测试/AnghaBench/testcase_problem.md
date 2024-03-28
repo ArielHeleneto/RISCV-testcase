@@ -1,0 +1,132 @@
+- ./vlc/modules/text\_renderer/freetype/fonts
+- ./nodemcu-firmware/app/sqlite3/extr\_sqlite3.c\_sqlite3\_update\_hook.c:./nodemcu-firmware/app/sqlite3/extr\_sqlite3.c\_sqlite3\_update\_hook.c:14:79: error: unknown type name ‘sqlite\_int64’
+- ./nodemcu-firmware/app/sqlite3/extr\_sqlite3.c\_sqlite3\_update\_hook.c:./nodemcu-firmware/app/sqlite3/extr\_sqlite3.c\_sqlite3\_update\_hook.c:25:57: error: unknown type name ‘sqlite\_int64’
+- ./nodemcu-firmware/app/sqlite3/extr\_sqlite3.c\_sqlite3\_profile.c:./nodemcu-firmware/app/sqlite3/extr\_sqlite3.c\_sqlite3\_profile.c:14:56: error: unknown type name ‘sqlite\_uint64’
+- ./nodemcu-firmware/app/sqlite3/extr\_sqlite3.c\_sqlite3\_profile.c:./nodemcu-firmware/app/sqlite3/extr\_sqlite3.c\_sqlite3\_profile.c:25:38: error: unknown type name ‘sqlite\_uint64’
+- ./ccv/lib/3rdparty/sqlite3/extr\_sqlite3.c\_sqlite3\_update\_hook.c:./ccv/lib/3rdparty/sqlite3/extr\_sqlite3.c\_sqlite3\_update\_hook.c:14:79: error: unknown type name ‘sqlite\_int64’
+- ./ccv/lib/3rdparty/sqlite3/extr\_sqlite3.c\_sqlite3\_update\_hook.c:./ccv/lib/3rdparty/sqlite3/extr\_sqlite3.c\_sqlite3\_update\_hook.c:25:57: error: unknown type name ‘sqlite\_int64’
+- ./ccv/lib/3rdparty/sqlite3/extr\_sqlite3.c\_sqlite3\_profile.c:./ccv/lib/3rdparty/sqlite3/extr\_sqlite3.c\_sqlite3\_profile.c:14:56: error: unknown type name ‘sqlite\_uint64’
+- ./ccv/lib/3rdparty/sqlite3/extr\_sqlite3.c\_sqlite3\_profile.c:./ccv/lib/3rdparty/sqlite3/extr\_sqlite3.c\_sqlite3\_profile.c:25:38: error: unknown type name ‘sqlite\_uint64’
+- ./rufus/src/syslinux/libfat/extr\_open.c\_libfat\_open.c:./rufus/src/syslinux/libfat/extr\_open.c\_libfat\_open.c:17:64: error: unknown type name ‘libfat\_sector\_t’
+- ./rufus/src/syslinux/libfat/extr\_open.c\_libfat\_open.c:./rufus/src/syslinux/libfat/extr\_open.c\_libfat\_open.c:37:56: error: unknown type name ‘libfat\_sector\_t’
+- ./darwin-xnu/osfmk/kern/extr\_coalition.c\_coalition\_for\_each\_task.c:./darwin-xnu/osfmk/kern/extr\_coalition.c\_coalition\_for\_each\_task.c:20:95: error: unknown type name ‘task\_t’
+- ./darwin-xnu/osfmk/kern/extr\_coalition.c\_coalition\_for\_each\_task.c:./darwin-xnu/osfmk/kern/extr\_coalition.c\_coalition\_for\_each\_task.c:28:47: error: unknown type name ‘task\_t’
+- ./darwin-xnu/bsd/dev/dtrace/extr\_dtrace.c\_dtrace\_probe\_foreach.c:./darwin-xnu/bsd/dev/dtrace/extr\_dtrace.c\_dtrace\_probe\_foreach.c:31:23: error: unknown type name ‘dtrace\_id\_t’; did you mean ‘dtrace\_probe\_t’?
+- ./darwin-xnu/bsd/dev/dtrace/extr\_dtrace.c\_dtrace\_probe\_foreach.c:./darwin-xnu/bsd/dev/dtrace/extr\_dtrace.c\_dtrace\_probe\_foreach.c:55:30: error: unknown type name ‘dtrace\_id\_t’; did you mean ‘dtrace\_probe\_t’?
+- ./darwin-xnu/bsd/dev/dtrace/extr\_dtrace.c\_dtrace\_invalidate.c:./darwin-xnu/bsd/dev/dtrace/extr\_dtrace.c\_dtrace\_invalidate.c:15:46: error: unknown type name ‘dtrace\_id\_t’
+- ./darwin-xnu/bsd/dev/dtrace/extr\_dtrace.c\_dtrace\_invalidate.c:./darwin-xnu/bsd/dev/dtrace/extr\_dtrace.c\_dtrace\_invalidate.c:34:23: error: unknown type name ‘dtrace\_id\_t’; did you mean ‘dtrace\_provider\_t’?
+- ./darwin-xnu/bsd/dev/dtrace/extr\_dtrace.c\_dtrace\_unregister.c:./darwin-xnu/bsd/dev/dtrace/extr\_dtrace.c\_dtrace\_unregister.c:18:47: error: unknown type name ‘dtrace\_id\_t’
+- ./darwin-xnu/bsd/dev/dtrace/extr\_dtrace.c\_dtrace\_unregister.c:./darwin-xnu/bsd/dev/dtrace/extr\_dtrace.c\_dtrace\_unregister.c:72:23: error: unknown type name ‘dtrace\_id\_t’; did you mean ‘dtrace\_probe\_t’?
+- ./darwin-xnu/bsd/dev/dtrace/extr\_dtrace.c\_dtrace\_condense.c:./darwin-xnu/bsd/dev/dtrace/extr\_dtrace.c\_dtrace\_condense.c:16:47: error: unknown type name ‘dtrace\_id\_t’
+- ./darwin-xnu/bsd/dev/dtrace/extr\_dtrace.c\_dtrace\_condense.c:./darwin-xnu/bsd/dev/dtrace/extr\_dtrace.c\_dtrace\_condense.c:58:21: error: unknown type name ‘dtrace\_id\_t’; did you mean ‘dtrace\_probe\_t’?
+- ./darwin-xnu/bsd/kern/extr\_kpi\_mbuf.c\_mbuf\_attachcluster.c:./darwin-xnu/bsd/kern/extr\_kpi\_mbuf.c\_mbuf\_attachcluster.c:22:128: error: unknown type name ‘u\_int’; did you mean ‘int’?
+- ./darwin-xnu/bsd/kern/extr\_kpi\_mbuf.c\_mbuf\_attachcluster.c:./darwin-xnu/bsd/kern/extr\_kpi\_mbuf.c\_mbuf\_attachcluster.c:26:46: error: unknown type name ‘u\_int’; did you mean ‘int’?
+- ./darwin-xnu/bsd/kern/extr\_kpi\_mbuf.c\_mbuf\_ring\_cluster\_alloc.c:./darwin-xnu/bsd/kern/extr\_kpi\_mbuf.c\_mbuf\_ring\_cluster\_alloc.c:22:115: error: unknown type name ‘u\_int’; did you mean ‘int’?
+- ./darwin-xnu/bsd/kern/extr\_kpi\_mbuf.c\_mbuf\_ring\_cluster\_alloc.c:./darwin-xnu/bsd/kern/extr\_kpi\_mbuf.c\_mbuf\_ring\_cluster\_alloc.c:28:30: error: unknown type name ‘u\_int’; did you mean ‘int’?
+- ./FFmpeg/libavfilter/extr\_vf\_pullup.c\_compute\_metric.c:./FFmpeg/libavfilter/extr\_vf\_pullup.c\_compute\_metric.c:28:74: error: unknown type name ‘ptrdiff\_t’
+- ./poco/Data/SQLite/src/extr\_sqlite3.c\_sqlite3\_update\_hook.c:./poco/Data/SQLite/src/extr\_sqlite3.c\_sqlite3\_update\_hook.c:14:79: error: unknown type name ‘sqlite\_int64’
+- ./poco/Data/SQLite/src/extr\_sqlite3.c\_sqlite3\_update\_hook.c:./poco/Data/SQLite/src/extr\_sqlite3.c\_sqlite3\_update\_hook.c:25:57: error: unknown type name ‘sqlite\_int64’
+- ./poco/Data/SQLite/src/extr\_sqlite3.c\_sqlite3\_profile.c:./poco/Data/SQLite/src/extr\_sqlite3.c\_sqlite3\_profile.c:14:56: error: unknown type name ‘sqlite\_uint64’
+- ./poco/Data/SQLite/src/extr\_sqlite3.c\_sqlite3\_profile.c:./poco/Data/SQLite/src/extr\_sqlite3.c\_sqlite3\_profile.c:27:38: error: unknown type name ‘sqlite\_uint64’
+- ./wcdb/android/sqlcipher/extr\_sqlite3.c\_sqlite3\_update\_hook.c:./wcdb/android/sqlcipher/extr\_sqlite3.c\_sqlite3\_update\_hook.c:14:79: error: unknown type name ‘sqlite\_int64’
+- ./wcdb/android/sqlcipher/extr\_sqlite3.c\_sqlite3\_update\_hook.c:./wcdb/android/sqlcipher/extr\_sqlite3.c\_sqlite3\_update\_hook.c:25:57: error: unknown type name ‘sqlite\_int64’
+- ./wcdb/android/sqlcipher/extr\_sqlite3.c\_sqlite3\_profile.c:./wcdb/android/sqlcipher/extr\_sqlite3.c\_sqlite3\_profile.c:14:56: error: unknown type name ‘sqlite\_uint64’
+- ./wcdb/android/sqlcipher/extr\_sqlite3.c\_sqlite3\_profile.c:./wcdb/android/sqlcipher/extr\_sqlite3.c\_sqlite3\_profile.c:27:38: error: unknown type name ‘sqlite\_uint64’
+- ./mongoose/examples/api\_server/extr\_sqlite3.c\_sqlite3\_update\_hook.c:./mongoose/examples/api\_server/extr\_sqlite3.c\_sqlite3\_update\_hook.c:14:79: error: unknown type name ‘sqlite\_int64’
+- ./mongoose/examples/api\_server/extr\_sqlite3.c\_sqlite3\_update\_hook.c:./mongoose/examples/api\_server/extr\_sqlite3.c\_sqlite3\_update\_hook.c:23:57: error: unknown type name ‘sqlite\_int64’
+- ./mongoose/examples/api\_server/extr\_sqlite3.c\_sqlite3\_profile.c:./mongoose/examples/api\_server/extr\_sqlite3.c\_sqlite3\_profile.c:14:56: error: unknown type name ‘sqlite\_uint64’
+- ./mongoose/examples/api\_server/extr\_sqlite3.c\_sqlite3\_profile.c:./mongoose/examples/api\_server/extr\_sqlite3.c\_sqlite3\_profile.c:23:38: error: unknown type name ‘sqlite\_uint64’
+- ./Craft/deps/sqlite/extr\_sqlite3.c\_sqlite3\_update\_hook.c:./Craft/deps/sqlite/extr\_sqlite3.c\_sqlite3\_update\_hook.c:14:79: error: unknown type name ‘sqlite\_int64’
+- ./Craft/deps/sqlite/extr\_sqlite3.c\_sqlite3\_update\_hook.c:./Craft/deps/sqlite/extr\_sqlite3.c\_sqlite3\_update\_hook.c:23:57: error: unknown type name ‘sqlite\_int64’
+- ./Craft/deps/sqlite/extr\_sqlite3.c\_sqlite3\_profile.c:./Craft/deps/sqlite/extr\_sqlite3.c\_sqlite3\_profile.c:14:56: error: unknown type name ‘sqlite\_uint64’
+- ./Craft/deps/sqlite/extr\_sqlite3.c\_sqlite3\_profile.c:./Craft/deps/sqlite/extr\_sqlite3.c\_sqlite3\_profile.c:23:38: error: unknown type name ‘sqlite\_uint64’
+- ./reactos/dll/win32/msxml3/extr\_bsc.c\_bind\_url.c:./reactos/dll/win32/msxml3/extr\_bsc.c\_bind\_url.c:16:205: error: unknown type name ‘DWORD’
+- ./reactos/dll/win32/msxml3/extr\_bsc.c\_bind\_url.c:./reactos/dll/win32/msxml3/extr\_bsc.c\_bind\_url.c:39:72: error: unknown type name ‘DWORD’
+- ./reactos/modules/rosapps/applications/net/tsclient/rdesktop/extr\_channels.c\_channel\_register.c:./reactos/modules/rosapps/applications/net/tsclient/rdesktop/extr\_channels.c\_channel\_register.c:16:47: error: unknown type name ‘STREAM’
+- ./reactos/modules/rosapps/applications/net/tsclient/rdesktop/extr\_channels.c\_channel\_register.c:./reactos/modules/rosapps/applications/net/tsclient/rdesktop/extr\_channels.c\_channel\_register.c:28:93: error: unknown type name ‘STREAM’
+- ./Provenance/Cores/Yabause/yabause/src/extr\_sh2core.c\_SH2SetBreakpointCallBack.c:./Provenance/Cores/Yabause/yabause/src/extr\_sh2core.c\_SH2SetBreakpointCallBack.c:15:54: error: unknown type name ‘u32’
+- ./Provenance/Cores/Yabause/yabause/src/extr\_sh2core.c\_SH2SetBreakpointCallBack.c:./Provenance/Cores/Yabause/yabause/src/extr\_sh2core.c\_SH2SetBreakpointCallBack.c:21:73: error: unknown type name ‘u32’
+- ./Provenance/Cores/Yabause/yabause/src/extr\_sh2core.c\_SH2StepOut.c:./Provenance/Cores/Yabause/yabause/src/extr\_sh2core.c\_SH2StepOut.c:15:44: error: unknown type name ‘u32’
+- ./Provenance/Cores/Yabause/yabause/src/extr\_sh2core.c\_SH2StepOut.c:./Provenance/Cores/Yabause/yabause/src/extr\_sh2core.c\_SH2StepOut.c:23:59: error: unknown type name ‘u32’
+- ./mimikatz/modules/extr\_sqlite3\_omit.c\_sqlite3\_profile.c:./mimikatz/modules/extr\_sqlite3\_omit.c\_sqlite3\_profile.c:14:56: error: unknown type name ‘sqlite\_uint64’
+- ./mimikatz/modules/extr\_sqlite3\_omit.c\_sqlite3\_profile.c:./mimikatz/modules/extr\_sqlite3\_omit.c\_sqlite3\_profile.c:27:38: error: unknown type name ‘sqlite\_uint64’
+- ./mimikatz/modules/extr\_sqlite3\_omit.c\_sqlite3\_update\_hook.c:./mimikatz/modules/extr\_sqlite3\_omit.c\_sqlite3\_update\_hook.c:14:79: error: unknown type name ‘sqlite\_int64’
+- ./mimikatz/modules/extr\_sqlite3\_omit.c\_sqlite3\_update\_hook.c:./mimikatz/modules/extr\_sqlite3\_omit.c\_sqlite3\_update\_hook.c:25:57: error: unknown type name ‘sqlite\_int64’
+- ./RetroArch/wii/libogc/lwip/extr\_network.c\_netconn\_new\_with\_callback.c:./RetroArch/wii/libogc/lwip/extr\_network.c\_netconn\_new\_with\_callback.c:17:109: error: unknown type name ‘u32’
+- ./RetroArch/wii/libogc/lwip/extr\_network.c\_netconn\_new\_with\_callback.c:./RetroArch/wii/libogc/lwip/extr\_network.c\_netconn\_new\_with\_callback.c:19:136: error: unknown type name ‘u32’
+- ./RetroArch/wii/libogc/libdb/uIP/extr\_uip\_tcp.c\_uip\_tcp\_err.c:./RetroArch/wii/libogc/libdb/uIP/extr\_uip\_tcp.c\_uip\_tcp\_err.c:13:43: error: unknown type name ‘s8\_t’
+- ./RetroArch/wii/libogc/libdb/uIP/extr\_uip\_tcp.c\_uip\_tcp\_err.c:./RetroArch/wii/libogc/libdb/uIP/extr\_uip\_tcp.c\_uip\_tcp\_err.c:17:62: error: unknown type name ‘s8\_t’
+- ./freebsd/sys/opencrypto/extr\_criov.c\_crypto\_apply.c:./freebsd/sys/opencrypto/extr\_criov.c\_crypto\_apply.c:20:59: error: unknown type name ‘u\_int’; did you mean ‘int’?
+- ./freebsd/sys/opencrypto/extr\_criov.c\_crypto\_apply.c:./freebsd/sys/opencrypto/extr\_criov.c\_crypto\_apply.c:21:57: error: unknown type name ‘u\_int’; did you mean ‘int’?
+- ./freebsd/sys/opencrypto/extr\_criov.c\_crypto\_apply.c:./freebsd/sys/opencrypto/extr\_criov.c\_crypto\_apply.c:26:30: error: unknown type name ‘u\_int’; did you mean ‘int’?
+- ./freebsd/sys/ofed/drivers/infiniband/core/extr\_ib\_sysfs.c\_ib\_device\_register\_sysfs.c:./freebsd/sys/ofed/drivers/infiniband/core/extr\_ib\_sysfs.c\_ib\_device\_register\_sysfs.c:19:65: error: unknown type name ‘u8’
+- ./freebsd/sys/ofed/drivers/infiniband/core/extr\_ib\_sysfs.c\_ib\_device\_register\_sysfs.c:./freebsd/sys/ofed/drivers/infiniband/core/extr\_ib\_sysfs.c\_ib\_device\_register\_sysfs.c:32:9: error: unknown type name ‘u8’
+- ./freebsd/sys/dev/acpica/extr\_acpi\_video.c\_vid\_enum\_outputs.c:./freebsd/sys/dev/acpica/extr\_acpi\_video.c\_vid\_enum\_outputs.c:16:78: error: unknown type name ‘UINT32’
+- ./freebsd/sys/dev/acpica/extr\_acpi\_video.c\_vid\_enum\_outputs.c:./freebsd/sys/dev/acpica/extr\_acpi\_video.c\_vid\_enum\_outputs.c:43:34: error: unknown type name ‘UINT32’
+- ./freebsd/sys/arm/arm/extr\_machdep\_ptrace.c\_arm\_predict\_branch.c:./freebsd/sys/arm/arm/extr\_machdep\_ptrace.c\_arm\_predict\_branch.c:22:30: error: unknown type name ‘vm\_offset\_t’
+- ./freebsd/sys/net/extr\_if.c\_if\_setioctlfn.c:./freebsd/sys/net/extr\_if.c\_if\_setioctlfn.c:19:47: error: unknown type name ‘u\_long’; did you mean ‘long’?
+- ./freebsd/sys/net/extr\_if.c\_if\_setioctlfn.c:./freebsd/sys/net/extr\_if.c\_if\_setioctlfn.c:19:55: error: unknown type name ‘caddr\_t’
+- ./freebsd/sys/cddl/contrib/opensolaris/uts/common/dtrace/extr\_dtrace.c\_dtrace\_invalidate.c:./freebsd/sys/cddl/contrib/opensolaris/uts/common/dtrace/extr\_dtrace.c\_dtrace\_invalidate.c:15:47: error: unknown type name ‘dtrace\_id\_t’
+- ./freebsd/sys/cddl/contrib/opensolaris/uts/common/dtrace/extr\_dtrace.c\_dtrace\_invalidate.c:./freebsd/sys/cddl/contrib/opensolaris/uts/common/dtrace/extr\_dtrace.c\_dtrace\_invalidate.c:35:24: error: unknown type name ‘dtrace\_id\_t’; did you mean ‘dtrace\_provider\_t’?
+- ./freebsd/sys/cddl/contrib/opensolaris/uts/common/dtrace/extr\_dtrace.c\_dtrace\_unregister.c:./freebsd/sys/cddl/contrib/opensolaris/uts/common/dtrace/extr\_dtrace.c\_dtrace\_unregister.c:18:48: error: unknown type name ‘dtrace\_id\_t’
+- ./freebsd/sys/cddl/contrib/opensolaris/uts/common/dtrace/extr\_dtrace.c\_dtrace\_unregister.c:./freebsd/sys/cddl/contrib/opensolaris/uts/common/dtrace/extr\_dtrace.c\_dtrace\_unregister.c:71:24: error: unknown type name ‘dtrace\_id\_t’; did you mean ‘dtrace\_probe\_t’?
+- ./freebsd/sys/cddl/contrib/opensolaris/uts/common/dtrace/extr\_dtrace.c\_dtrace\_condense.c:./freebsd/sys/cddl/contrib/opensolaris/uts/common/dtrace/extr\_dtrace.c\_dtrace\_condense.c:16:47: error: unknown type name ‘dtrace\_id\_t’
+- ./freebsd/sys/cddl/contrib/opensolaris/uts/common/dtrace/extr\_dtrace.c\_dtrace\_condense.c:./freebsd/sys/cddl/contrib/opensolaris/uts/common/dtrace/extr\_dtrace.c\_dtrace\_condense.c:54:24: error: unknown type name ‘dtrace\_id\_t’; did you mean ‘dtrace\_probe\_t’?
+- ./freebsd/lib/libc/db/mpool/extr\_mpool.c\_mpool\_filter.c:./freebsd/lib/libc/db/mpool/extr\_mpool.c\_mpool\_filter.c:14:40: error: unknown type name ‘pgno\_t’
+- ./freebsd/lib/libc/db/mpool/extr\_mpool.c\_mpool\_filter.c:./freebsd/lib/libc/db/mpool/extr\_mpool.c\_mpool\_filter.c:14:78: error: unknown type name ‘pgno\_t’
+- ./freebsd/lib/libc/db/mpool/extr\_mpool.c\_mpool\_filter.c:./freebsd/lib/libc/db/mpool/extr\_mpool.c\_mpool\_filter.c:20:47: error: unknown type name ‘pgno\_t’
+- ./freebsd/lib/libc/net/extr\_send.c\_send.c:./freebsd/lib/libc/net/extr\_send.c\_send.c:18:79: error: unknown type name ‘socklen\_t’
+- ./freebsd/lib/libc/net/extr\_send.c\_send.c:./freebsd/lib/libc/net/extr\_send.c\_send.c:28:31: error: unknown type name ‘socklen\_t’
+- ./freebsd/contrib/ofed/opensm/complib/extr\_cl\_nodenamemap.c\_parse\_node\_map.c:./freebsd/contrib/ofed/opensm/complib/extr\_cl\_nodenamemap.c\_parse\_node\_map.c:15:54: error: unknown type name ‘uint64\_t’; did you mean ‘uintptr\_t’?
+- ./freebsd/contrib/ofed/opensm/complib/extr\_cl\_nodenamemap.c\_parse\_node\_map.c:./freebsd/contrib/ofed/opensm/complib/extr\_cl\_nodenamemap.c\_parse\_node\_map.c:18:29: error: unknown type name ‘uint64\_t’; did you mean ‘uintptr\_t’?
+- ./freebsd/contrib/ldns/extr\_dnssec\_verify.c\_ldns\_dnssec\_verify\_denial\_nsec3\_match.c:./freebsd/contrib/ldns/extr\_dnssec\_verify.c\_ldns\_dnssec\_verify\_denial\_nsec3\_match.c:50:12: error: unknown type name ‘ATTR\_UNUSED’
+- ./freebsd/contrib/sqlite3/extr\_sqlite3.c\_sqlite3\_update\_hook.c:./freebsd/contrib/sqlite3/extr\_sqlite3.c\_sqlite3\_update\_hook.c:14:79: error: unknown type name ‘sqlite\_int64’
+- ./freebsd/contrib/sqlite3/extr\_sqlite3.c\_sqlite3\_update\_hook.c:./freebsd/contrib/sqlite3/extr\_sqlite3.c\_sqlite3\_update\_hook.c:25:57: error: unknown type name ‘sqlite\_int64’
+- ./freebsd/contrib/sqlite3/extr\_sqlite3.c\_sqlite3\_profile.c:./freebsd/contrib/sqlite3/extr\_sqlite3.c\_sqlite3\_profile.c:14:56: error: unknown type name ‘sqlite\_uint64’
+- ./freebsd/contrib/sqlite3/extr\_sqlite3.c\_sqlite3\_profile.c:./freebsd/contrib/sqlite3/extr\_sqlite3.c\_sqlite3\_profile.c:27:38: error: unknown type name ‘sqlite\_uint64’
+- ./freebsd/contrib/binutils/gas/extr\_read.c\_s\_comm\_internal.c:./freebsd/contrib/binutils/gas/extr\_read.c\_s\_comm\_internal.c:60:50: error: unknown type name ‘addressT’
+- ./freebsd/contrib/gdb/gdb/extr\_procfs.c\_proc\_iterate\_over\_mappings.c:./freebsd/contrib/gdb/gdb/extr\_procfs.c\_proc\_iterate\_over\_mappings.c:19:63: error: unknown type name ‘CORE\_ADDR’
+- ./freebsd/contrib/gdb/gdb/extr\_procfs.c\_proc\_iterate\_over\_mappings.c:./freebsd/contrib/gdb/gdb/extr\_procfs.c\_proc\_iterate\_over\_mappings.c:23:47: error: unknown type name ‘CORE\_ADDR’
+- ./toxcore/auto\_tests/extr\_..toxcoreDHT.c\_DHT\_addfriend.c:./toxcore/auto\_tests/extr\_..toxcoreDHT.c\_DHT\_addfriend.c:23:54: error: unknown type name ‘IP\_Port’
+- ./toxcore/auto\_tests/extr\_..toxcoreDHT.c\_DHT\_addfriend.c:./toxcore/auto\_tests/extr\_..toxcoreDHT.c\_DHT\_addfriend.c:37:104: error: unknown type name ‘IP\_Port’
+- ./toxcore/toxcore/extr\_DHT.c\_DHT\_addfriend.c:./toxcore/toxcore/extr\_DHT.c\_DHT\_addfriend.c:23:54: error: unknown type name ‘IP\_Port’
+- ./toxcore/toxcore/extr\_DHT.c\_DHT\_addfriend.c:./toxcore/toxcore/extr\_DHT.c\_DHT\_addfriend.c:37:104: error: unknown type name ‘IP\_Port’
+- ./toxcore/toxcore/extr\_Messenger.c\_m\_callback\_typingchange.c:./toxcore/toxcore/extr\_Messenger.c\_m\_callback\_typingchange.c:14:59: error: unknown type name ‘uint32\_t’; did you mean ‘uintptr\_t’?
+- ./toxcore/toxcore/extr\_Messenger.c\_m\_callback\_typingchange.c:./toxcore/toxcore/extr\_Messenger.c\_m\_callback\_typingchange.c:19:74: error: unknown type name ‘uint32\_t’; did you mean ‘uintptr\_t’?
+- ./toxcore/toxcore/extr\_Messenger.c\_m\_callback\_connectionstatus\_internal\_av.c:./toxcore/toxcore/extr\_Messenger.c\_m\_callback\_connectionstatus\_internal\_av.c:14:78: error: unknown type name ‘uint32\_t’; did you mean ‘uintptr\_t’?
+- ./toxcore/toxcore/extr\_Messenger.c\_m\_callback\_connectionstatus\_internal\_av.c:./toxcore/toxcore/extr\_Messenger.c\_m\_callback\_connectionstatus\_internal\_av.c:14:87: error: unknown type name ‘uint8\_t’; did you mean ‘uintptr\_t’?
+- ./toxcore/toxcore/extr\_Messenger.c\_m\_callback\_connectionstatus\_internal\_av.c:./toxcore/toxcore/extr\_Messenger.c\_m\_callback\_connectionstatus\_internal\_av.c:19:91: error: unknown type name ‘uint32\_t’; did you mean ‘uintptr\_t’?
+- ./toxcore/toxcore/extr\_Messenger.c\_m\_callback\_connectionstatus\_internal\_av.c:./toxcore/toxcore/extr\_Messenger.c\_m\_callback\_connectionstatus\_internal\_av.c:19:101: error: unknown type name ‘uint8\_t’; did you mean ‘uintptr\_t’?
+- ./toxcore/toxcore/extr\_tox\_old\_code.h\_tox\_callback\_group\_namelist\_change.c:./toxcore/toxcore/extr\_tox\_old\_code.h\_tox\_callback\_group\_namelist\_change.c:19:103: error: unknown type name ‘uint8\_t’; did you mean ‘uintptr\_t’?
+- ./toxcore/toxcore/extr\_tox\_old\_code.h\_tox\_callback\_group\_namelist\_change.c:./toxcore/toxcore/extr\_tox\_old\_code.h\_tox\_callback\_group\_namelist\_change.c:21:88: error: unknown type name ‘uint8\_t’; did you mean ‘uintptr\_t’?
+- ./toxcore/toxcore/extr\_Messenger.c\_m\_callback\_userstatus.c:./toxcore/toxcore/extr\_Messenger.c\_m\_callback\_userstatus.c:14:63: error: unknown type name ‘uint32\_t’; did you mean ‘uintptr\_t’?
+- ./toxcore/toxcore/extr\_Messenger.c\_m\_callback\_userstatus.c:./toxcore/toxcore/extr\_Messenger.c\_m\_callback\_userstatus.c:19:73: error: unknown type name ‘uint32\_t’; did you mean ‘uintptr\_t’?
+- ./toxcore/toxcore/extr\_group.c\_group\_lossy\_packet\_registerhandler.c:./toxcore/toxcore/extr\_group.c\_group\_lossy\_packet\_registerhandler.c:17:71: error: unknown type name ‘uint16\_t’; did you mean ‘uint8\_t’?
+- ./toxcore/toxcore/extr\_group.c\_group\_lossy\_packet\_registerhandler.c:./toxcore/toxcore/extr\_group.c\_group\_lossy\_packet\_registerhandler.c:23:58: error: unknown type name ‘uint16\_t’; did you mean ‘uint8\_t’?
+- ./toxcore/toxcore/extr\_Messenger.c\_m\_callback\_connectionstatus.c:./toxcore/toxcore/extr\_Messenger.c\_m\_callback\_connectionstatus.c:14:69: error: unknown type name ‘uint32\_t’; did you mean ‘uintptr\_t’?
+- ./toxcore/toxcore/extr\_Messenger.c\_m\_callback\_connectionstatus.c:./toxcore/toxcore/extr\_Messenger.c\_m\_callback\_connectionstatus.c:19:79: error: unknown type name ‘uint32\_t’; did you mean ‘uintptr\_t’?
+- ./TDengine/src/client/src/extr\_tscAsync.c\_taos\_fetch\_row\_a.c:./TDengine/src/client/src/extr\_tscAsync.c\_taos\_fetch\_row\_a.c:20:64: error: unknown type name ‘TAOS\_ROW’
+- ./TDengine/src/client/src/extr\_tscAsync.c\_taos\_fetch\_row\_a.c:./TDengine/src/client/src/extr\_tscAsync.c\_taos\_fetch\_row\_a.c:39:79: error: unknown type name ‘TAOS\_ROW’; did you mean ‘TAOS\_RES’?
+- ./TDengine/src/client/src/extr\_tscAsync.c\_taos\_fetch\_row\_a.c:./TDengine/src/client/src/extr\_tscAsync.c\_taos\_fetch\_row\_a.c:42:71: error: unknown type name ‘TAOS\_ROW’; did you mean ‘TAOS\_RES’?
+- ./netdata/libnetdata/adaptive\_resortable\_list/extr\_adaptive\_resortable\_list.c\_arl\_create.c:./netdata/libnetdata/adaptive\_resortable\_list/extr\_adaptive\_resortable\_list.c\_arl\_create.c:14:51: error: unknown type name ‘uint32\_t’; did you mean ‘uintptr\_t’?
+- ./netdata/libnetdata/adaptive\_resortable\_list/extr\_adaptive\_resortable\_list.c\_arl\_create.c:./netdata/libnetdata/adaptive\_resortable\_list/extr\_adaptive\_resortable\_list.c\_arl\_create.c:18:41: error: unknown type name ‘uint32\_t’; did you mean ‘uintptr\_t’?
+- ./netdata/libnetdata/adaptive\_resortable\_list/extr\_adaptive\_resortable\_list.c\_arl\_create.c:./netdata/libnetdata/adaptive\_resortable\_list/extr\_adaptive\_resortable\_list.c\_arl\_create.c:22:72: error: unknown type name ‘uint32\_t’; did you mean ‘uintptr\_t’?
+- ./sqlcipher/src/extr\_main.c\_sqlite3\_update\_hook.c:./sqlcipher/src/extr\_main.c\_sqlite3\_update\_hook.c:14:79: error: unknown type name ‘sqlite\_int64’
+- ./sqlcipher/src/extr\_main.c\_sqlite3\_update\_hook.c:./sqlcipher/src/extr\_main.c\_sqlite3\_update\_hook.c:25:57: error: unknown type name ‘sqlite\_int64’
+- ./sqlcipher/src/extr\_main.c\_sqlite3\_profile.c:./sqlcipher/src/extr\_main.c\_sqlite3\_profile.c:14:56: error: unknown type name ‘sqlite\_uint64’
+- ./sqlcipher/src/extr\_main.c\_sqlite3\_profile.c:./sqlcipher/src/extr\_main.c\_sqlite3\_profile.c:27:38: error: unknown type name ‘sqlite\_uint64’
+- ./sqlcipher/ext/lsm1/extr\_lsm\_shared.c\_lsmWalkFreelist.c:./sqlcipher/ext/lsm1/extr\_lsm\_shared.c\_lsmWalkFreelist.c:20:69: error: unknown type name ‘i64’
+- ./sqlcipher/ext/lsm1/extr\_lsm\_shared.c\_lsmWalkFreelist.c:./sqlcipher/ext/lsm1/extr\_lsm\_shared.c\_lsmWalkFreelist.c:29:62: error: unknown type name ‘i64’
+- ./sqlcipher/ext/lsm1/extr\_lsm\_shared.c\_lsmWalkFreelist.c:./sqlcipher/ext/lsm1/extr\_lsm\_shared.c\_lsmWalkFreelist.c:31:32: error: unknown type name ‘i64’
+- ./sqlcipher/ext/lsm1/extr\_lsm\_shared.c\_lsmWalkFreelist.c:./sqlcipher/ext/lsm1/extr\_lsm\_shared.c\_lsmWalkFreelist.c:36:25: error: unknown type name ‘i64’
+- ./sqlcipher/ext/lsm1/lsm-test/extr\_lsmtest\_tdb3.c\_tdb\_lsm\_write\_hook.c:./sqlcipher/ext/lsm1/lsm-test/extr\_lsmtest\_tdb3.c\_tdb\_lsm\_write\_hook.c:15:50: error: unknown type name ‘lsm\_i64’
+- ./sqlcipher/ext/lsm1/lsm-test/extr\_lsmtest\_tdb3.c\_tdb\_lsm\_write\_hook.c:./sqlcipher/ext/lsm1/lsm-test/extr\_lsmtest\_tdb3.c\_tdb\_lsm\_write\_hook.c:23:31: error: unknown type name ‘lsm\_i64’
+- ./linux/arch/arm/common/extr\_dmabounce.c\_dmabounce\_register\_dev.c:./linux/arch/arm/common/extr\_dmabounce.c\_dmabounce\_register\_dev.c:16:69: error: unknown type name ‘dma\_addr\_t’
+- ./linux/arch/arm/common/extr\_dmabounce.c\_dmabounce\_register\_dev.c:./linux/arch/arm/common/extr\_dmabounce.c\_dmabounce\_register\_dev.c:38:43: error: unknown type name ‘dma\_addr\_t’
+- ./linux/drivers/scsi/csiostor/extr\_csio\_wr.c\_csio\_wr\_process\_iq\_idx.c:./linux/drivers/scsi/csiostor/extr\_csio\_wr.c\_csio\_wr\_process\_iq\_idx.c:19:89: error: unknown type name ‘uint32\_t’; did you mean ‘uintptr\_t’?
+- ./linux/drivers/scsi/csiostor/extr\_csio\_wr.c\_csio\_wr\_process\_iq\_idx.c:./linux/drivers/scsi/csiostor/extr\_csio\_wr.c\_csio\_wr\_process\_iq\_idx.c:24:11: error: unknown type name ‘uint32\_t’; did you mean ‘uintptr\_t’?
+- ./linux/drivers/acpi/extr\_scan.c\_acpi\_initialize\_hp\_context.c:./linux/drivers/acpi/extr\_scan.c\_acpi\_initialize\_hp\_context.c:13:67: error: unknown type name ‘u32’
+- ./linux/drivers/acpi/extr\_scan.c\_acpi\_initialize\_hp\_context.c:./linux/drivers/acpi/extr\_scan.c\_acpi\_initialize\_hp\_context.c:13:111: error: unknown type name ‘u32’
+- ./linux/drivers/acpi/extr\_scan.c\_acpi\_initialize\_hp\_context.c:./linux/drivers/acpi/extr\_scan.c\_acpi\_initialize\_hp\_context.c:23:41: error: unknown type name ‘u32’
+- ./linux/drivers/md/extr\_dm-bufio.c\_submit\_io.c:./linux/drivers/md/extr\_dm-bufio.c\_submit\_io.c:14:55: error: unknown type name ‘blk\_status\_t’
+- ./linux/drivers/md/extr\_dm-bufio.c\_submit\_io.c:./linux/drivers/md/extr\_dm-bufio.c\_submit\_io.c:29:109: error: unknown type name ‘blk\_status\_t’
